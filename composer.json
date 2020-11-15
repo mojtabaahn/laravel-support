@@ -40,7 +40,7 @@
     ],
     "require": {
         "php": "^7.4.0",
-        "felixkiss/uniquewith-validator": "^3.4.0",
+        "felixkiss/uniquewith-validator": "dev-laravel8",
         "illuminate/auth": "^7.0.0|^8.0.0",
         "illuminate/bus": "^7.0.0|^8.0.0",
         "illuminate/contracts": "^7.0.0|^8.0.0",
